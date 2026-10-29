@@ -2,6 +2,10 @@
 
 Sistema web de gerenciamento de loja virtual, com vitrine de produtos e cadastro de clientes, produtos e vendas. Desenvolvido com PHP e SQLite. 🐘🗄️
 
+## 🚀 Demonstração
+
+🔗 [Ver projeto online](https://projeto-loja-89vr.onrender.com/vendas.php)
+
 ## ✨ Funcionalidades
 
 - 🏪 **Vitrine:** exibe os produtos em cartões com imagem, descrição e preço, com campo de busca
