@@ -4,7 +4,7 @@ Sistema web de gerenciamento de loja virtual, com vitrine de produtos e cadastro
 
 ## 🚀 Demonstração
 
-🔗 [Ver projeto online](https://projeto-loja-89vr.onrender.com/vendas.php)
+🔗 [Ver projeto online](https://projeto-loja-89vr.onrender.com)
 
 ## ✨ Funcionalidades
 
